@@ -1,1 +1,4 @@
-<?php echo "bugrit"; ?>
+<?php 
+    echo "bugrit";
+    echo "burnik";
+?>
